@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="orders">orders</string>
+    <string name="ice_cream_sundae">res1</string>
+    <string name="gip_mall_noida">GIP MALL INDIA</string>
+    <string name="date_time">02 Mar 2021 11:30 AM</string>
+</resources>
